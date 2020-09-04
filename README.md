@@ -1,0 +1,2 @@
+# github-repo-zuzana
+repository for learning to work with git
